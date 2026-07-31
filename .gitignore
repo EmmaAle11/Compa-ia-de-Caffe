@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/plugins/copilot/data.json
+
+# Copilot
+copilot/
+
+# Excalidraw temporales
+Excalidraw/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+

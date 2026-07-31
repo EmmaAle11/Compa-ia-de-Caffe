@@ -1,0 +1,7 @@
+Stock
+
+Movimientos
+
+Reservas
+
+Alertas
