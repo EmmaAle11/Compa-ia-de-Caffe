@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "4588a3a9dbf21a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f09ffcb27963c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94d2785a22751035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Desing/01 Vision/02 Alcance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Alcance"
+            }
+          },
+          {
+            "id": "4c9583dc58a7c40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Desing/02 Business/03 Reglas de negocio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 Reglas de negocio"
+            }
+          },
+          {
+            "id": "3cefe02d038bae48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Desing/02 Business/Casos de uso/UC-03 Contactar Empresa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UC-03 Contactar Empresa"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff484bb2dc167643",
+    "type": "split",
+    "children": [
+      {
+        "id": "59650d98e03535cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b9d5d3ad648002b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "077e479b5a546925",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "0f66d73fa33d06f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15f1246d4a845f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbe975ac263e30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac0c5792a990adbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "60c29856a9a21a02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "4a205465e27e84e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "785935a177c37bac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "755153e91f5352f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "c69edb26b4ffc9fd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "52eeafece49ae898",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3930296277ea00ee",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9a4de0e50e122343",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 484.47265625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "6b9d5d3ad648002b",
+  "lastOpenFiles": [
+    "Architecture Desing/02 Business/Casos de uso/UC-02 Administrar Productos.md",
+    "Architecture Desing/02 Business/Casos de uso/UC-03 Contactar Empresa.md",
+    "Architecture Desing/02 Business/Casos de uso/UC-01 Comprar cafe.md",
+    "Architecture Desing/02 Business/03 Reglas de negocio.md",
+    "Sin título.md",
+    "Architecture Desing/02 Business/Casos de uso",
+    "Sin nombre",
+    "Architecture Desing/02 Business/02 Requerimientos.md",
+    "Architecture Desing/MOC Principal.md",
+    "Architecture Desing/10 Backlog/MVP.md",
+    "Architecture Desing/10 Backlog",
+    "Architecture Desing/09 Deployment/Deployment.md",
+    "Architecture Desing/09 Deployment",
+    "Architecture Desing/08 Decisions/ADR-001 FSD.md",
+    "Architecture Desing/08 Decisions",
+    "Architecture Desing/07 API/REST Specification.md",
+    "Architecture Desing/07 API",
+    "Architecture Desing/06 Security/Security Architecture.md",
+    "Architecture Desing/06 Security",
+    "Architecture Desing/05 Database/ER Diagram.md",
+    "Architecture Desing/05 Database",
+    "Architecture Desing/04 Architecture/Architecture Overview.md",
+    "Architecture Desing/04 Architecture",
+    "Architecture Desing/03 Domain/README.md",
+    "Architecture Desing/03 Domain",
+    "Architecture Desing/02 Business/01 Stakeholders.md",
+    "Architecture Desing/01 Vision/03 Visión del producto.md",
+    "Architecture Desing/01 Vision/02 Alcance.md",
+    "Architecture Desing/01 Vision/01 Objetivo.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-conversations/Add_MD_Files_to_Folders@20260731_110659.md",
+    "copilot/copilot-conversations/Necesito_que_considerando_las_carpetas_ya_integradas_añadas_dentro_de@20260731_105328.md",
+    "Sin título 1.md",
+    "Architecture Desing/Sin título.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "Excalidraw/Drawing 2026-07-31 10.49.26.excalidraw.md"
+  ]
+}

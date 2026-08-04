@@ -1,0 +1,5 @@
+Eventos
+
+Errores
+
+Auditoría

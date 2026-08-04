@@ -1,0 +1,5 @@
+Historias mínimas
+
+Prioridad
+
+Entregables

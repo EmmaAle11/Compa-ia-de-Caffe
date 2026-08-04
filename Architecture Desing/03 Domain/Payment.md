@@ -1,0 +1,7 @@
+Métodos
+
+Estados
+
+Integración
+
+Webhooks

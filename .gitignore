@@ -1,12 +1,30 @@
+# --- Node / build ---
 node_modules/
 dist/
 build/
 coverage/
-.DS_Store
 *.log
+
+# --- Secrets ---
 .env*
 !.env.example
 
-# graphify output (knowledge graph, regenerable)
+# --- Obsidian vault (docs/) ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/plugins/copilot/data.json
+
+# Copilot conversations — local scratch, not documentation
+copilot/
+
+# Excalidraw temporales
+Excalidraw/
+
+# --- graphify output (knowledge graph, regenerable) ---
 graphify-out/
 .graphify_detect.json
+
+# --- OS ---
+.DS_Store
+Thumbs.db

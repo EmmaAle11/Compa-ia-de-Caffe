@@ -1,0 +1,7 @@
+Sentry
+
+PostHog
+
+Alertas
+
+Disponibilidad
