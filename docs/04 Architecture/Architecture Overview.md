@@ -12,7 +12,7 @@ Café Punto Medio is a premium Mexican specialty coffee e-commerce store with an
 
 ### 2.0 Repository layout
 
-Two npm workspaces, one per runtime — see [ADR-003](../09-decisions/ADR-003-repository-layout.md).
+Two npm workspaces, one per runtime — see [[docs/08 Decisions/ADR-007 Repository Layout]].
 
 ```
 CBC/

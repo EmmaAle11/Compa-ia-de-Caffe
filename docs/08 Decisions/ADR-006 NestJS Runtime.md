@@ -2,8 +2,8 @@
 
 - **Status**: Accepted
 - **Date**: 2026-08-03
-- **Supersedes**: the Express composition described in ADR-001 §Backend runtime
-- **Related**: [ADR-001](ADR-001-architecture-and-stack.md), [architecture-overview](../03-architecture/architecture-overview.md)
+- **Supersedes**: the Express composition implied by [[docs/08 Decisions/ADR-002 Hexagonal]]
+- **Related**: [[docs/08 Decisions/ADR-001 FSD]] · [[docs/08 Decisions/ADR-002 Hexagonal]], [[docs/04 Architecture/Architecture Overview]]
 
 ## Context
 

@@ -70,7 +70,7 @@ layer. Cross-slice imports go through the slice's public entry point (`index.ts`
   move together or not at all.
 - **The domain model is fixed**: Product, Category, Order, OrderItem, Customer, Address,
   Payment, Inventory, Promotion, Contact. New entities need a discussion first.
-- **An architectural change needs an ADR** in `docs/09-decisions/` before the code.
+- **An architectural change needs an ADR** in `docs/08 Decisions/` before the code.
 
 ## Commands
 

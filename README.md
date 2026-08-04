@@ -3,9 +3,9 @@
 Premium Mexican specialty coffee e-commerce store plus a lightweight internal backoffice.
 The store is the product; the backoffice only exists to run the business.
 
-The Architecture Design Document lives in [`docs/`](docs/) and is the source of truth.
+The Architecture Design Document lives in [`docs/`](docs/) — an Obsidian vault, start at [`docs/MOC.md`](docs/MOC.md) — and is the source of truth.
 Code and documentation evolve together — an architectural change needs an ADR first
-([`docs/09-decisions/`](docs/09-decisions/)). The short version for day-to-day work is
+([`docs/08 Decisions/`](docs/08%20Decisions/)). The short version for day-to-day work is
 [`.claude/Architecture.md`](.claude/Architecture.md).
 
 ## Layout

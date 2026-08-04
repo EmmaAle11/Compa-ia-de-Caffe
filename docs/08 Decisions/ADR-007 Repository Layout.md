@@ -2,8 +2,8 @@
 
 - **Status**: Accepted
 - **Date**: 2026-08-04
-- **Amends**: [ADR-002](ADR-002-backend-runtime-and-module-layout.md) §3
-- **Related**: [ADR-001](ADR-001-architecture-and-stack.md), [architecture-overview](../03-architecture/architecture-overview.md)
+- **Amends**: [[docs/08 Decisions/ADR-006 NestJS Runtime]] §3
+- **Related**: [[docs/08 Decisions/ADR-001 FSD]] · [[docs/08 Decisions/ADR-002 Hexagonal]], [[docs/04 Architecture/Architecture Overview]]
 
 ## Context
 
